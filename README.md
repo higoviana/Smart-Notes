@@ -16,7 +16,7 @@ Usado a IDE NetBeans para o desenvolvimento do software.
 ---
 &nbsp;
 
-## Diagramas
+## Diagramas:
 &nbsp;
 ![Logo do R](./imgs_README/Slide2.JPG)
 ---
@@ -28,7 +28,7 @@ Usado a IDE NetBeans para o desenvolvimento do software.
 ---
 &nbsp;
 
-## Funcionamento [Menus]
+## Funcionamento [Menus]:
 &nbsp;
 ![Logo do R](./imgs_README/Slide5.JPG)
 ---
@@ -43,6 +43,11 @@ Usado a IDE NetBeans para o desenvolvimento do software.
 &nbsp;
 &nbsp;
 ![Logo do R](./imgs_README/Slide8.JPG)
+---
+&nbsp;
+## Demonstração:
+&nbsp;
+![Logo do R](./imgs_README/Slide9.JPG)
 ---
 &nbsp;
 
