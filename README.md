@@ -47,7 +47,7 @@ Usado a IDE NetBeans para o desenvolvimento do software.
 &nbsp;
 ## Demonstração:
 &nbsp;
-![Logo do R](./imgs_README/Slide9.GIF)
+![Logo do R](./imgs_README/Slide9.gif)
 ---
 &nbsp;
 
