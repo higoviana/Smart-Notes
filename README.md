@@ -3,7 +3,7 @@ Software baseado em um editor de texto que permite você gerenciar suas anotaç�
 &nbsp;
 O logotipo foi desenvolvido no canvas utilizando elementos simples de design. 
 
-![Logo do R](imgs_README/Template apresentação/logo.png)
+![Logo do R](./imgs_README/logo.png)
 &nbsp;
 
 O objetivo do projeto é demonstrar o processo de desenvolvimento de software que cuja finalidade seria aplicar os conceitos abordados nas UCs de Programação de soluções computacionais e Modelagem de software. 
