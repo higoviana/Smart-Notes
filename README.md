@@ -28,7 +28,7 @@ Usado a IDE NetBeans para o desenvolvimento do software.
 ---
 &nbsp;
 
-## Funcionamento
+## Funcionamento [Menus]
 &nbsp;
 ![Logo do R](./imgs_README/Slide5.JPG)
 ---
